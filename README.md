@@ -8,8 +8,6 @@
 
 Blackbird Bitcoin Arbitrage is a C++ trading system that does automatic long/short arbitrage between Bitcoin exchanges.
 
-Get started with Valorant Hack + Aimbot Cheat 2023.
-
 ## Getting Started
 
 ### Installing
